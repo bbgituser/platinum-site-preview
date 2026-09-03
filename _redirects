@@ -1,0 +1,41 @@
+# Gerado por scripts/gerar-redirects.py — não editar à mão.
+# Rodar: python3 scripts/gerar-redirects.py
+# Aplicado ANTES do corte de produção, nunca depois.
+
+# 35 regras — fontes: redirects-301, redirects-blog, redirects-paginas
+
+/ano-novo-sede-nova/  /noticias/ano-novo-sede-nova/  301   # post sai da raiz do domínio para /noticias/
+/como-escolher-construtora-ideal-projeto/  /noticias/como-escolher-construtora-ideal-projeto/  301   # post sai da raiz do domínio para /noticias/
+/como-funciona-uma-construtora/  /noticias/como-funciona-uma-construtora/  301   # post sai da raiz do domínio para /noticias/
+/construindo-um-galpao-resistente-com-piso-industrial-aditivo-de-retracao-aditivo-quimico-e-fibra-sintetica/  /noticias/galpao-piso-industrial-aditivos-fibra/  301   # slug do WordPress era o prompt colado
+/construtora-em-manaus-excelencia-platinum-construcoes/  /noticias/construtora-em-manaus-excelencia-platinum-construcoes/  301   # post sai da raiz do domínio para /noticias/
+/construtora-em-manaus/  /noticias/construtora-em-manaus/  301   # post sai da raiz do domínio para /noticias/
+/experiente-construtora-de-engenhraria-civil/  /obras/  301   # índice de portfólio com slug com erro de digitação (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-comerciais/  /obras/obras-comerciais/  301   # página de segmento com slug com erro (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-de-arte/  /obras/obras-de-arte/  301   # página de segmento com slug com erro (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-de-infraestrutura/  /obras/obras-de-infraestrutura/  301   # página de segmento com slug com erro (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-de-mobilidade-urbana/  /obras/obras-de-mobilidade-urbana/  301   # página de segmento com slug com erro (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-horizontais/  /obras/obras-residenciais/  301   # segmento reclassificado por tipo de obra (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-hospitalares/  /obras/obras-hospitalares/  301   # página de segmento com slug com erro (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-industriais/  /obras/obras-industriais/  301   # página de segmento com slug com erro (URL real do site atual)
+/experiente-construtora-de-engenhraria-civil/obras-verticais/  /obras/obras-residenciais/  301   # segmento reclassificado por tipo de obra (URL real do site atual)
+/mais-uma-obra-iniciada-de-galpao-industrial/  /noticias/mais-uma-obra-iniciada-de-galpao-industrial/  301   # post sai da raiz do domínio para /noticias/
+/momentos-de-inflacao-mundial/  /noticias/momentos-de-inflacao-mundial/  301   # post sai da raiz do domínio para /noticias/
+/o-desafio-de-construir-no-periodo-da-pandemia-do-covid-19/  /noticias/o-desafio-de-construir-no-periodo-da-pandemia-do-covid-19/  301   # post sai da raiz do domínio para /noticias/
+/obas-em-andamento-lancamentos-e-informacoes-do-mercado/  /noticias/  301   # índice de notícias com slug com erro de digitação (URL real do site atual)
+/obras-industriais/  /obras/obras-industriais/  301   # cadeia que hoje termina em soft 404 no site atual (301 -> página inexistente)
+/obras-sob-contratacao-direta-em-toda-a-regiao-norte/  /empresa/  301   # página O que fazemos com slug com erro de digitação (URL real do site atual)
+/obras/obras-horizontais/  /obras/obras-residenciais/  301   # segmento reclassificado por tipo de obra
+/obras/obras-verticais/  /obras/obras-residenciais/  301   # segmento reclassificado por tipo de obra
+/peca-um-orcamento-da-sua-obra-e-conheca-nossa-equipe/  /contato/  301   # página Contato com slug com erro de digitação (URL real do site atual)
+/planejamento-de-obra-as-vantagens-de-um-planejamento-bem-executado-para-o-sucesso-de-sua-construcao-em-manaus/  /noticias/planejamento-de-obra-manaus/  301   # slug do WordPress era o prompt colado
+/por-que-a-platinum-construcoes-e-a-melhor-escolha-para-sua-obra-comercial-em-manaus/  /noticias/por-que-a-platinum-construcoes-e-a-melhor-escolha-para-sua-obra-comercial-em-manaus/  301   # post sai da raiz do domínio para /noticias/
+/portfolio/modelo-hospitalares/  /portfolio/hospital-santa-julia/  301   # slug trocado
+/portfolio/modelo-obras-de-arte/  /portfolio/passarela-amazonas-shopping/  301   # slug trocado
+/portfolio/passeio-das-aguas-2/  /portfolio/passeio-das-aguas/  301   # duplicata
+/principais-funcoes-de-uma-construtora/  /noticias/principais-funcoes-de-uma-construtora/  301   # post sai da raiz do domínio para /noticias/
+/projeto-premiado/  /noticias/projeto-premiado/  301   # post sai da raiz do domínio para /noticias/
+/referencia-em-engenharia-e-construcao-civil-no-norte-do-pais/  /empresa/  301   # página Quem Somos com slug com erro de digitação (URL real do site atual)
+/revolucao-da-alvenaria-estrutural-inovacao-e-sustentabilidade-com-a-belgo/  /noticias/alvenaria-estrutural-belgo/  301   # slug do WordPress era o prompt colado
+/sure-a-hyphenated-web-slug-for-vistoria-em-manaus-seguranca-e-valorizacao-no-mercado-imobiliario-in-portuguese-could-bevistoria-em-manaus-seguranca-e-valorizacao-no-mercado-imobiliario-fe/  /noticias/vistoria-imovel-manaus/  301   # slug do WordPress era o prompt colado
+/um-webslug-hifenizado-para-desafios-e-oportunidades-no-mercado-imobiliario-do-amazonas-em-2022-poderia-serdesafios-oportunidades-mercado-imobiliario-amazonas-2022/  /noticias/mercado-imobiliario-amazonas-2022/  301   # slug do WordPress era o prompt colado
